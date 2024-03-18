@@ -1,0 +1,338 @@
+[
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\StarterProject_autogen\\mocs_compilation.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\build\\StarterProject_autogen\\mocs_compilation.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build/StarterProject_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/StarterProject.dir/StarterProject_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\console.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\console.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/console.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/console.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gbrowserpane.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gbrowserpane.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gbrowserpane.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gbrowserpane.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gbutton.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gbutton.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gbutton.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gbutton.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gcanvas.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gcanvas.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcanvas.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gcanvas.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gcheckbox.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gcheckbox.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcheckbox.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gcheckbox.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gchooser.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gchooser.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gchooser.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gchooser.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gclipboard.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gclipboard.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gclipboard.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gclipboard.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gcolor.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gcolor.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcolor.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gcolor.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gcolorchooser.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gcolorchooser.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcolorchooser.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gcolorchooser.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gconsolewindow.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gconsolewindow.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gconsolewindow.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gconsolewindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gcontainer.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gcontainer.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcontainer.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gcontainer.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gdiffgui.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gdiffgui.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdiffgui.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gdiffgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gdiffimage.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gdiffimage.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdiffimage.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gdiffimage.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gdownloader.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gdownloader.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdownloader.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gdownloader.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gdrawingsurface.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gdrawingsurface.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdrawingsurface.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gdrawingsurface.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gevent.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gevent.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gevent.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gevent.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\geventqueue.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\geventqueue.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/geventqueue.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/geventqueue.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gexceptions.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gexceptions.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gexceptions.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gexceptions.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gfilechooser.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gfilechooser.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gfilechooser.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gfilechooser.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gfont.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gfont.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gfont.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gfont.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gfontchooser.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gfontchooser.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gfontchooser.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gfontchooser.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\ginit.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\ginit.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/ginit.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/ginit.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\ginteractor.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\ginteractor.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/ginteractor.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/ginteractor.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\glabel.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\glabel.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/glabel.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/glabel.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\glayout.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\glayout.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/glayout.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/glayout.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gmath.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gmath.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gmath.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gmath.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gobjects.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gobjects.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gobjects.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gobjects.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gobservable.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gobservable.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gobservable.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gobservable.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\goptionpane.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\goptionpane.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/goptionpane.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/goptionpane.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gradiobutton.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gradiobutton.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gradiobutton.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gradiobutton.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gscrollbar.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gscrollbar.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gscrollbar.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gscrollbar.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gscrollpane.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gscrollpane.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gscrollpane.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gscrollpane.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gslider.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gslider.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gslider.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gslider.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gsound.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gsound.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gsound.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gsound.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gspacer.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gspacer.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gspacer.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gspacer.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gtable.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gtable.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtable.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gtable.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gtextarea.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gtextarea.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtextarea.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gtextarea.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gtextfield.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gtextfield.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtextfield.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gtextfield.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gthread.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gthread.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gthread.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gthread.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gtimer.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gtimer.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtimer.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gtimer.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gtypes.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gtypes.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtypes.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gtypes.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gversion.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gversion.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gversion.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gversion.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\gwindow.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\gwindow.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gwindow.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/gwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\librarymain.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\librarymain.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/librarymain.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/librarymain.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\mainwrapper.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\mainwrapper.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/mainwrapper.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/mainwrapper.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\privatediff.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\privatediff.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privatediff.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/privatediff.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\privatefilelib.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\privatefilelib.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privatefilelib.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/privatefilelib.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\privateregexpr.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\privateregexpr.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privateregexpr.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/privateregexpr.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\privatestrlib.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\privatestrlib.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privatestrlib.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/privatestrlib.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\qtgui.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\qtgui.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/qtgui.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/qtgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\lib\\require.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\lib\\require.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/require.cpp",
+  "output": "CMakeFiles/StarterProject.dir/lib/require.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\src\\PathSimulationGui.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\src\\PathSimulationGui.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/src/PathSimulationGui.cpp",
+  "output": "CMakeFiles/StarterProject.dir/src/PathSimulationGui.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\src\\finalProject.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\src\\finalProject.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/src/finalProject.cpp",
+  "output": "CMakeFiles/StarterProject.dir/src/finalProject.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\src\\networkManager.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\src\\networkManager.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/src/networkManager.cpp",
+  "output": "CMakeFiles/StarterProject.dir/src/networkManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\G__~1.EXE -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB @CMakeFiles/StarterProject.dir/includes_CXX.rsp -g -std=gnu++17 -g -Wall -Wextra -Werror=return-type -Werror=uninitialized -Wunused-parameter -Wmissing-field-initializers -Wno-old-style-cast -Wno-sign-compare -Wno-sign-conversion -DSGL_GRAPHICAL_CONSOLE_NO_TOOLBAR=1 -Dmain=qMain -DqMain=studentMain -o CMakeFiles\\StarterProject.dir\\src\\roadNode.cpp.obj -c \"C:\\Users\\nhth2\\Documents\\CS133\\Final Project Extract\\src\\roadNode.cpp\"",
+  "file": "C:/Users/nhth2/Documents/CS133/Final Project Extract/src/roadNode.cpp",
+  "output": "CMakeFiles/StarterProject.dir/src/roadNode.cpp.obj"
+}
+]

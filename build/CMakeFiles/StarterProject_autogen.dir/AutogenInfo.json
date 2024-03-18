@@ -1,0 +1,744 @@
+{
+	"BUILD_DIR" : "C:/Users/nhth2/Documents/CS133/Final Project Extract/build/StarterProject_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/nhth2/Documents/CS133/Final Project Extract/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/nhth2/Documents/CS133/Final Project Extract",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/CMakeLists.txt",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/build/CMakeFiles/3.27.7/CMakeSystem.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/build/CMakeFiles/3.27.7/CMakeCXXCompiler.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/GNU-CXX.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/GNU.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/build/CMakeFiles/3.27.7/CMakeRCCompiler.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeRCInformation.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeParseArguments.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Multimedia/Qt5MultimediaConfigVersion.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Multimedia/Qt5MultimediaConfig.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_AudioCaptureServicePlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_DSServicePlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QM3uPlaylistPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Multimedia/Qt5Multimedia_QWindowsAudioPlugin.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/FinalMap.txt",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/Go Node.png",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/Map.jpg",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/New Node.png",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/No Go Node.png",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/Select Node.png",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/USA_MAP.jpg",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/USA_MAP.png",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/networkManager.txt",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/res/newMap.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/nhth2/Documents/CS133/Final Project Extract",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/console.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_console.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gbrowserpane.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gbrowserpane.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gbutton.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gbutton.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcanvas.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gcanvas.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcheckbox.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gcheckbox.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gchooser.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gchooser.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gclipboard.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gclipboard.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcolor.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gcolor.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcolorchooser.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gcolorchooser.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gconsolewindow.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gconsolewindow.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcontainer.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gcontainer.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdiffgui.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gdiffgui.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdiffimage.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gdiffimage.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdownloader.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gdownloader.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdrawingsurface.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gdrawingsurface.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gevent.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gevent.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/geventqueue.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_geventqueue.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gexceptions.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gexceptions.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gfilechooser.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gfilechooser.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gfont.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gfont.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gfontchooser.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gfontchooser.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/ginit.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_ginit.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/ginteractor.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_ginteractor.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/glabel.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_glabel.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/glayout.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_glayout.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gmath.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gmath.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gobjects.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gobjects.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gobservable.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gobservable.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/goptionpane.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_goptionpane.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gradiobutton.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gradiobutton.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gscrollbar.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gscrollbar.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gscrollpane.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gscrollpane.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gslider.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gslider.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gsound.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gsound.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gspacer.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gspacer.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtable.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gtable.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtextarea.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gtextarea.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtextfield.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gtextfield.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gthread.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gthread.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtimer.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gtimer.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtypes.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gtypes.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gversion.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gversion.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gwindow.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_gwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privatediff.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_privatediff.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privatefilelib.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_privatefilelib.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privateregexpr.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_privateregexpr.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privatestrlib.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_privatestrlib.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/qtgui.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_qtgui.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/require.h",
+			"Mu",
+			"ZJOKMXDKB7/moc_require.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/src/PathSimulationGui.h",
+			"Mu",
+			"UVLADIE3JM/moc_PathSimulationGui.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/src/networkManager.h",
+			"Mu",
+			"UVLADIE3JM/moc_networkManager.cpp",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/src/roadNode.h",
+			"Mu",
+			"UVLADIE3JM/moc_roadNode.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/nhth2/Documents/CS133/Final Project Extract/build/StarterProject_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/nhth2/Documents/CS133/Final Project Extract/build/StarterProject_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_MULTIMEDIA_LIB",
+		"QT_NETWORK_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib",
+		"C:/Users/nhth2/Documents/CS133/Final Project Extract/src",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/include",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/include/QtWidgets",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/include/QtGui",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/include/QtANGLE",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/include/QtCore",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/include/QtMultimedia",
+		"C:/Qt_Legacy2/5.15.2/mingw81_64/include/QtNetwork",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/g++.exe",
+		"-std=gnu++17",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/nhth2/Documents/CS133/Final Project Extract/build/StarterProject_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "C:/Users/nhth2/Documents/CS133/Final Project Extract/build/CMakeFiles/StarterProject_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt_Legacy2/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "C:/Users/nhth2/Documents/CS133/Final Project Extract/build/CMakeFiles/StarterProject_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/console.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gbrowserpane.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gbutton.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcanvas.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcheckbox.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gchooser.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gclipboard.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcolor.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcolorchooser.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gconsolewindow.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gcontainer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdiffgui.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdiffimage.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdownloader.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gdrawingsurface.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gevent.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/geventqueue.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gexceptions.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gfilechooser.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gfont.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gfontchooser.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/ginit.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/ginteractor.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/glabel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/glayout.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gmath.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gobjects.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gobservable.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/goptionpane.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gradiobutton.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gscrollbar.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gscrollpane.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gslider.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gsound.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gspacer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtable.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtextarea.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtextfield.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gthread.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtimer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gtypes.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gversion.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/gwindow.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/librarymain.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/mainwrapper.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privatediff.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privatefilelib.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privateregexpr.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/privatestrlib.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/qtgui.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/lib/require.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/src/PathSimulationGui.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/src/finalProject.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/src/networkManager.cpp",
+			"Mu",
+			null
+		],
+		[
+			"C:/Users/nhth2/Documents/CS133/Final Project Extract/src/roadNode.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}
