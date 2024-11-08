@@ -3,6 +3,7 @@
 //between nodes, and then allows them to manipulate the pathways and nodes by creating
 //new nodes and paths
 #include "networkManager.h"
+#include <climits>
 //This constructor creates a new network that can find the fastest path
 networkManager::networkManager(ifstream* file){
     cout << "constructor"<<endl;
